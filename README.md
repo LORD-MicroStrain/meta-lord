@@ -8,6 +8,6 @@ The Yocto Project:
 https://www.yoctoproject.org/
 
 #### License
-MIT License - see the LICENSE.txt file in the source distribution.
+MIT License - see the LICENSE file in the source distribution.
 
 Copyright (C) 2015-2016 LORD Corporation. All Rights Reserved.
