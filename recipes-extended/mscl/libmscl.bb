@@ -3,7 +3,7 @@ DESCRIPTION = "Library for accessing LORD MicroStrain sensors"
 GIT_VERSION = "eef512420b668928d8b54c58b5da1a3f8ed4dd23"
 PV = "git+${GIT_VERSION}"
 LICENSE = "MIT"
-LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=021681b140003ff29ad66e1706b71009"
+LIC_FILES_CHKSUM = "file://LICENSE.txt;md5=c1a6258118797119ab2aa06a88f7b674"
 
 inherit bjam python-dir
 
